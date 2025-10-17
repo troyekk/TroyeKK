@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @TroyeKK
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi there 👋
 
-<!---
-TroyeKK/TroyeKK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m a Coder
+- 🌱 I’m currently learning Java
+- ⚡ Hobby: Play / Surfing
+- ⛵ Motto: Life drifts untethered, fleeting as a dream.
